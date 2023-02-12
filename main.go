@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/feel-easy/wechat-bot/cmd"
+	"github.com/feel-easy/wechat-cmd/cmd"
 )
 
 func main() {

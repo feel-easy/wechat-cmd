@@ -1,4 +1,4 @@
-module github.com/feel-easy/wechat-bot
+module github.com/feel-easy/wechat-cmd
 
 go 1.18
 
